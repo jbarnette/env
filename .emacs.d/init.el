@@ -5,3 +5,5 @@
 (setq ido-everywhere t)
 (ido-mode 1)
 
+(setq make-backup-files nil)
+(setq auto-save-default nil)
